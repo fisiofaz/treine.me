@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Capa do projeto" src="./images/imgfront.pngimgfront.png" width="100%">
+  <img alt="Capa do projeto" src="./images/imgfront.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
